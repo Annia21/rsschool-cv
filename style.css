@@ -1,0 +1,32 @@
+h1 {
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}
+h2 {font-size: 20px;
+    font-style: italic;
+    color: crimson;
+}
+h5 {font-size: 20px;
+    font-style: italic;
+    color: rgb(255, 0, 255);
+}
+.text1 {
+    font-style: inherit;
+    color: lightcoral;
+}
+.text2 {
+    font-style: oblique;
+    color: lightslategray;
+}
+.text3 {
+    font-style: initial;
+    color: lightcoral;
+}
+li {
+    text-decoration: underline;
+}
+.text4 {
+    font-style: initial;
+    color: lightsalmon;
+}
